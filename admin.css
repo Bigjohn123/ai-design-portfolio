@@ -2,8 +2,8 @@
 /* These styles are scoped to the .admin-root class to avoid conflict with the main site */
 
 .admin-root {
-    /* Reset variables for light theme */
-    --bg-body: #f3f4f6;
+    /* Reset variables for light theme // 加点注释*/
+    --bg-body: #f3f4f6; 
     /* gray-100 */
     --bg-surface: #ffffff;
     --bg-card: #ffffff;
