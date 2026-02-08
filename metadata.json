@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Design Portfolio",
+  "description": "A high-end, professional AI and design portfolio application with configurable content and integrated Gemini-powered chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
